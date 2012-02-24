@@ -19,7 +19,7 @@
 
   <genericsetup:registerProfile
       name="default"
-      title="collective.js.nivo.gallery default"
+      title="collective.js.nivogallery default"
       directory="profiles/default"
       description='Install collective.js.nivo.gallery in Plone'
       provides="Products.GenericSetup.interfaces.EXTENSION"

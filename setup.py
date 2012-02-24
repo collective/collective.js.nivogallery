@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '0.1dev'
+version = '1.0'
 
 setup(name='collective.js.nivogallery',
       version=version,
@@ -13,7 +13,7 @@ setup(name='collective.js.nivogallery',
       classifiers=[
         "Programming Language :: Python",
         ],
-      keywords='',
+      keywords='nivo gallery nivogallery plonetruegallery',
       author='Espen Moe-Nillssen',
       author_email='espen@medialog.no',
       url='http://github.com/espenmn/collective.js.nivogallery',
@@ -24,7 +24,6 @@ setup(name='collective.js.nivogallery',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          # -*- Extra requirements: -*-
       ],
       entry_points="""
       # -*- Entry points: -*-
