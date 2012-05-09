@@ -7,17 +7,6 @@ This version include nivogallery v0.7.1
 It was made for using it with collective.plonetruegallery
 
 
-Credits
-=======
-
-Companies
----------
-
-|makinacom|_
-
-  * `Grieg Medialog <http://www.medialog.no>`_
-  * `Contact us <mailto:espen@medialog.no>`_
-
 
 Authors
 
